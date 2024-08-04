@@ -12,4 +12,4 @@ function showSlides() {
     slides[slideIndex-1].style.display = "block";  
     setTimeout(showSlides, 3000); // Change image every 3 seconds
 }
-document.getElementById('whatsapp-link').href = 'https://chat.whatsapp.com/your-group-link-here';
+document.getElementById('whatsapp-link').href = 'https://chat.whatsapp.com/IsTcHVvtLYt7kuyv3XMaw6';
