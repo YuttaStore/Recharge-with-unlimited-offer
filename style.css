@@ -186,3 +186,14 @@ body {
     text-align: center;
     color: #777; /* Lighter color for the copyright text */
 }
+
+header {
+    position: fixed;
+    top: 0;
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+    background: #000;
+    z-index: 1000;
+}
