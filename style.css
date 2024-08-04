@@ -187,5 +187,12 @@ body {
     color: #777; /* Lighter color for the copyright text */
 }
 
+.logo {
+    font-size: 1.7em;
+}
+
+.highlight {
+    color: #ffd700;
+}
 
 
