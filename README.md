@@ -1,4 +1,4 @@
-# yutta cover all
+# yutta100%
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Infinite-Gamers/pen/GRbrMjZ](https://codepen.io/Infinite-Gamers/pen/GRbrMjZ).
+A Pen created on CodePen.io. Original URL: [https://codepen.io/Infinite-Gamers/pen/poXwWNb](https://codepen.io/Infinite-Gamers/pen/poXwWNb).
 
